@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "                    "
+title                    : "Jianwen Li (李建文)"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "   Jianwen Li"
+  name             : ""
   avatar           : "profile.png"
   bio              : "Research Professor at East China Normal University"
   location         : "Shanghai, China"
