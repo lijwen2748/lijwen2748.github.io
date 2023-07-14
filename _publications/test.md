@@ -1,4 +1,3 @@
-
 ---
 title: "SAT-based LTL Satisfiability Checking"
 collection: publications
