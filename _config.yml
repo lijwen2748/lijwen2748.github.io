@@ -32,7 +32,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "master" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : ""
   avatar           : "个人网站照片.jpg"
-  bio              : "Research Professor at East China Normal University"
+  bio              : ""
   location         : "Shanghai, China"
-  employer         :
+  employer         : East China Normal University
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=kpv4RzgAAAAJ&hl=en"
-  email            :
+  email            :  jwli@sei.ecnu.edu.cn (lijwen2748@gmail.com)
   researchgate     :  "https://www.researchgate.net/profile/Jianwen-Li-8"
   uri              :
   bitbucket        :
@@ -187,6 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  tools:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -242,6 +245,14 @@ defaults:
       type: talks
     values:
       layout: talk
+      author_profile: true
+      share: true
+  # _tools
+  - scope:
+      path: ""
+      type: tools
+    values:
+      layout: single
       author_profile: true
       share: true
 

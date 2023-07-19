@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+#title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Short Bio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +9,17 @@ redirect_from:
   - /about.html
 ---
 
+
+I am a Youngth Research Professor (青年研究员)[^1] at [East China Normal University](https://www.ecnu.edu.cn/) (ECNU). I got my Ph.D. from ECNU in 2014, advised by Professor Jifeng He and Geguang Pu. Then I went to Rice University (2014.9 - 2017.9) as a postdoc, working with Professor [Moshe Y. Vardi](https://www.cs.rice.edu/~vardi/). After that, I moved to Iowa State University (ISU) for another two-years' postdoc, working with Professor [Kristin Y. Rozier](https://www.aere.iastate.edu/kyrozier/). Starting from November of 2019, I became a full-time faculty at ECNU.  
+
+My current research interests include automatic formal verification, logics and automata theory. I particularly interet in the application of formal methods to the industry, e.g., hardware, railway interlocking system, aerospace and et al. In recent years, I collaborated with colleages from such domains and developed tools (model checkers and constraint solvers) to guarantee the corresponding systems and designs. 
+
+The majority of my previous (and in the predictable future) research efforts fall in model checking and LTL (Linear Temporal Logic) reasoning, including LTL-to-automata, LTL satisfiability checking and synthesis/realizibility. Together with collaborators, I proposed **CAR** (Complementary Approaximate Reachability), a new safety model checking algorithm, and developed **aalta/aaltaf**, an LTL/LTLf satisfiability checker, which are state-of-the-arts.   
+
+[^1]: The position is similar to the tenured-track associate professor.
+
+
+<!---
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
@@ -48,3 +60,5 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+--->
