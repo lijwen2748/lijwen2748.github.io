@@ -9,6 +9,8 @@ redirect_from:
   - /about.html
 ---
 
+> Email: jwli@sei.ecnu.edu.cn (lijwen2748@gmail.com)
+
 
 I am a Youngth Research Professor (青年研究员)[^1] at [East China Normal University](https://www.ecnu.edu.cn/) (ECNU). I got my Ph.D. from ECNU in 2014, advised by Professor Jifeng He and Geguang Pu. Then I went to Rice University (2014.9 - 2017.9) as a postdoc, working with Professor [Moshe Y. Vardi](https://www.cs.rice.edu/~vardi/). After that, I moved to Iowa State University (ISU) for another two-years' postdoc, working with Professor [Kristin Y. Rozier](https://www.aere.iastate.edu/kyrozier/). Starting from November of 2019, I became a full-time faculty at ECNU.  
 
