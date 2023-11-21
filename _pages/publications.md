@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+> - Model-Guided Synthesis for LTL over Finite Traces. Shengping Xiao, Yongkang Li, Xinyue Huang, Yicong Xu, **Jianwen Li**\*, Geguang Pu, Ofer Strichman and Moshe Y. Vardi. 25th International Conference on Verification, Model Checking, and Abstract Interpretation (VMCAI), 2024. [\[pdf\]](http://lijwen2748.github.io/files/papers/VMCAI2024.pdf) 
+
 > - LightF3: A Lightweight Fully-Process Formal Framework for Automated Verifying Railway Interlocking Systems. Yibo Dong, Xiaoyu Zhang, Yicong Xu, Chang Cai, Yu Chen, Weikai Miao, **Jianwen Li**\* and Geguang Pu\*. The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), 2023. [\[pdf\]](http://lijwen2748.github.io/files/papers/FSE2023.pdf) [\[Tool Demo\]](http://lijwen2748.github.io/files/others/LightF3_demo.zip)
 
 > - Computing Minimal Unsatisfiable Cores for LTL over finite traces. Tong Niu, Shengping Xiao, Xiaoyu Zhang, **Jianwen Li**, Yanhong Huang\*, and Jianqi Shi. Journal of Logic and Computation (JLC), 2023. [\[pdf\]](http://lijwen2748.github.io/files/papers/JLC2023.pdf)
