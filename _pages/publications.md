@@ -4,7 +4,7 @@ title: "Recent Publications"
 permalink: /publications/
 author_profile: true
 ---
-> - Avoiding the Shoals - A New Approach to Liveness Checking. Yechuan Xia, Alessandro Cimatti, Alberto Griggio, and **Jianwen Li**. International Conference on Computer Aided Verification (CAV), 2024. [\[pdf\]](http://lijwen2748.github.io/files/papers/CAV2024.pdf)
+> - Avoiding the Shoals - A New Approach to Liveness Checking. Yechuan Xia, Alessandro Cimatti, Alberto Griggio, and **Jianwen Li**\*. International Conference on Computer Aided Verification (CAV), 2024. [\[pdf\]](http://lijwen2748.github.io/files/papers/CAV2024.pdf)
 
 > - Model-Guided Synthesis for LTL over Finite Traces. Shengping Xiao, Yongkang Li, Xinyue Huang, Yicong Xu, **Jianwen Li**\*, Geguang Pu, Ofer Strichman and Moshe Y. Vardi. 25th International Conference on Verification, Model Checking, and Abstract Interpretation (VMCAI), 2024. [\[pdf\]](http://lijwen2748.github.io/files/papers/VMCAI2024.pdf) 
 
